@@ -8,7 +8,7 @@ public class Leitor2 {
 
 	public static void main(String[] args) {
 		
-		String path = "C:\\\\Users\\\\andre\\\\AppData\\\\Local\\\\Temp\\\\in.txt";
+		String path = "DIRETÓRIO DO ARQUIVO";
 		FileReader fr = null;
 		BufferedReader br = null;
 		
